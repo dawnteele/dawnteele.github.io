@@ -14,6 +14,9 @@ Teele has won several prizes, including the Carrie Chapman Catt Prize for the st
 She holds a BA in Economics from Reed College, and a PhD in Political Science from Yale University.
 
 **Co-founder of EGEN (http://www.egenpolisci.org/), the Empirical Study of Gender Research Network.**
+
 **Editor of *Comparative Political Studies* (https://journals.sagepub.com/home/cps)**
+
 **Winner of the Theda Skocpol Emerging Scholar Award, 2023 (https://snfagora.jhu.edu/news/dawn-teele-wins-apsas-theda-skocpol-emerging-scholar-award/)**
+
 **Director of the Agora Academy at Johns Hopkins**
