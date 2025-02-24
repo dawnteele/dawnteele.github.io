@@ -26,9 +26,9 @@ author:
   name             : "Dawn Teele"
   pronouns         : # example: "she/her"  
   bio              : "SNF Agora Institute Associate Professor \nDepartment of Political Science \nJohns Hopkins University"
-  location         : #"Earth"
-  employer         : #"Red Brick University"
-  uri              : # URL
+  location         : #"Baltimore"
+  employer         : #"Johns Hopkins University"
+  uri              : https://snfagora.jhu.edu/person/dawn-teele/
   email            : "teele.academic[at]gmail.com" 
 
   # Academic websites
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
