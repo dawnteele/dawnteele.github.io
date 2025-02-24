@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dawn Teele / Home"
+title                    : "Dawn Langan Teele / Home"
 title_separator          : "-"
 name                     : &name "Dawn Teele"
 description              : &description "SNF Agora Institute Associate Professor of Political Science, Johns Hopkins University"
@@ -23,9 +23,9 @@ repository               : "dawnteele/dawnteele.github.io"
 author:
   # Biographic information
   avatar           : "dawn-teele_1_orig.png"
-  name             : "Dawn Teele"
+  name             : "Dawn Langan Teele"
   pronouns         : # example: "she/her"  
-  bio              : "SNF Agora Institute Associate Professor \nDepartment of Political Science \nJohns Hopkins University"
+  bio              : "SNF Agora Institute Associate Professor of Political Science at Johns Hopkins University"
   location         : #"Baltimore"
   employer         : #"Johns Hopkins University"
   uri              : https://snfagora.jhu.edu/person/dawn-teele/
