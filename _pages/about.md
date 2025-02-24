@@ -17,6 +17,6 @@ She holds a BA in Economics from Reed College, and a PhD in Political Science fr
 
 **Editor of *[Comparative Political Studies](https://journals.sagepub.com/home/cps)***
 
-**Winner of the [Theda Skocpol Emerging Scholar Award](https://snfagora.jhu.edu/news/dawn-teele-wins-apsas-theda-skocpol-emerging-scholar-award/), 2023**
+**Winner of the [Theda Skocpol Emerging Scholar Award, 2023](https://snfagora.jhu.edu/news/dawn-teele-wins-apsas-theda-skocpol-emerging-scholar-award/)**
 
 **Director of the Agora Academy at Johns Hopkins**
