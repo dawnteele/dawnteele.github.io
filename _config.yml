@@ -22,14 +22,14 @@ repository               : "dawnteele/dawnteele.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "dawn-teele_1_orig.png"
+  avatar           : "teele-2017_1.png"
   name             : "Dawn Langan Teele"
   pronouns         : # example: "she/her"  
-  bio              : "SNF Agora Institute Associate Professor of Political Science at Johns Hopkins University"
+  bio              : #"SNF Agora Institute Associate Professor of Political Science at Johns Hopkins University"
   location         : #"Baltimore"
-  employer         : #"Johns Hopkins University"
+  employer         : "Johns Hopkins University"
   uri              : https://snfagora.jhu.edu/person/dawn-teele/
-  email            : "teele.academic[at]gmail.com" 
+  email            : "teele.academic@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
