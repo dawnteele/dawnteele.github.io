@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Johns Hopkins University"
+#collection: teaching
+#type: "Undergraduate course"
+#permalink: /teaching/2014-spring-teaching-1
+#venue: "University 1, Department"
+#date: 2014-01-01
+#location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Comparative Politics -- Fall 2024
 
-Heading 1
-======
+Frontiers of Empirical Political Science -- Spring 2024
 
-Heading 2
-======
+Writing for Research -- Fall 2022
 
-Heading 3
-======
+The Politics of Reproduction -- Fall 2021
