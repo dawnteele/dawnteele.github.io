@@ -8,7 +8,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Basic Site Settings
 locale                   : "en-US"
@@ -29,7 +29,9 @@ author:
   avatar           : "teele-2017_1.png"
   name             : "Dawn Langan Teele\n"
   pronouns         : # example: "she/her"  
-  bio              : #"SNF Agora Institute Associate Professor of Political Science at Johns Hopkins University"
+  bio              : "SNF Agora Institute Associate Professor <br>
+                      Department of Political Science <br> 
+                      Johns Hopkins University"
   location         : #"Baltimore"
   employer         : "Johns Hopkins University"
   uri              : https://snfagora.jhu.edu/person/dawn-teele/
