@@ -27,7 +27,7 @@ Frontiers of Comparative Politics -- Spring 2020
 
 Scope and Methods -- Fall 2019
 
-Political Economy of Gender -- [Fall 2016](../files/2016%20political%20economy%20of%20gender%20syllabus.pdf), Fall 2019
+Political Economy of Gender -- [Fall 2016](../assets/2016-representation-and-identity-politics-syllabus.pdf), Fall 2019
 
 The Politics of Reproduction -- Spring 2017, Spring 2020
 
