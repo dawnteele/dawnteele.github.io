@@ -6,6 +6,7 @@ permalink: /teaching/
 #venue: "University 1, Department"
 #date: 2014-01-01
 #location: "City, Country"
+author_profile: true
 ---
 **Johns Hopkins University**
 
