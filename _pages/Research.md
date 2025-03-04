@@ -14,10 +14,10 @@ redirect_from:
 <span style="font-size: 0.8em;">Prize: Gregory Luebbert Prize for the Best Book in Comparative Politics, American Political Science Association 2020.</span><br>
 <span style="font-size: 0.8em;">Reviews: </span>*<a href="https://www.cambridge.org/core/journals/perspectives-on-politics/article/abs/forging-the-franchise-the-political-origins-of-the-womens-vote-by-dawn-langan-teele-princeton-princeton-university-press-2018-240p-2995-cloth/52B49413677EF99E9351B11D393E64CF" style="color: gray; font-size: 0.8em; text-decoration: none;">Perspectives on Politics 2020</a>*; *<a href="https://www.tandfonline.com/doi/abs/10.1080/09612025.2019.1576290" style="color: gray; font-size: 0.8em; text-decoration: none;">Women's History Review 2019</a>*; *<a href="https://www.aeaweb.org/articles?id=10.1257/jel.20201567" style="color: gray; font-size: 0.8em; text-decoration: none;">Journal of Economic Literature 2022</a>*; *<a href="https://www.journals.uchicago.edu/doi/10.1086/709924" style="color: gray; font-size: 0.8em; text-decoration: none;">Journal of Modern History 2020</a>*; *<a href="https://www.jstor.org/stable/26907867" style="color: gray; font-size: 0.8em; text-decoration: none;">Comparative Politics 2020</a>*; *<a href="https://www.tandfonline.com/doi/full/10.1080/13510347.2019.1625890" style="color: gray; font-size: 0.8em; text-decoration: none;">Democratization 2020</a>*; 
 
-​​2014. **Teele, Dawn (ed.).** *<a href="https://www.amazon.com/Field-Experiments-Their-Critics-Experimentation/dp/030016940X" style="color: darkred; text-decoration: none;">Field Experiments and Their Critics: Essays on the Uses and Abuses of Experiments in the Social Sciences.</a>* Yale University Press.
+​​2014. **Teele, Dawn (ed.).** *<a href="https://www.amazon.com/Field-Experiments-Their-Critics-Experimentation/dp/030016940X" style="color: darkred; text-decoration: none;">Field Experiments and Their Critics: Essays on the Uses and Abuses of Experiments in the Social Sciences.</a>* Yale University Press.<br>
+<span style="font-size: 0.8em;">Review Symposium:
 
 
-Field Experiments and Their Critics: Essays on the Uses and Abuses of Experiments in the Social Sciences. Yale University Press.
                   Review Symposium --  in the January 2017 Perspectives on Politics.
 
 
