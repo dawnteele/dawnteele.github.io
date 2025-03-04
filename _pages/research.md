@@ -24,12 +24,12 @@ redirect_from:
 **Teele, Dawn.** *The Gender Gap and the Welfare State.* In Progress.
 
 <div style="display: flex; flex-direction: column; position: absolute; right: 0; top: 0; padding: 20px;">
-  <img src="../image/Forging the Franchise.jpg" alt="Graph 1" width="100%" style="margin-bottom: 10px;">
-  <img src="../image/Field Experiment and Their Critics.jpg" alt="Graph 2" width="100%" style="margin-bottom: 10px;">
-  <img src="../image/Good Reasons to Run.jpg" alt="Graph 3" width="100%">
+  <img src="../images/Forging the Franchise.jpg" alt="Graph 1" width="100%" style="margin-bottom: 10px;">
+  <img src="../images/Field Experiment and Their Critics.jpg" alt="Graph 2" width="100%" style="margin-bottom: 10px;">
+  <img src="../images/Good Reasons to Run.jpg" alt="Graph 3" width="100%">
 </div>
 
-
+images/Forging the Franchise.jpg
 
 ![Voter Turnout Graph](image/voter_turnout.png)
 
