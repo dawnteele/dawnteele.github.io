@@ -10,4 +10,5 @@ redirect_from:
 
 **Books**
 
-2018. **Teele, Dawn.** *[Forging the Franchise: The Political Origins of the Women's Vote.](https://press.princeton.edu/books/hardcover/9780691180267/forging-the-franchise)* Princeton, NJ: Princeton University Press. replication files.
+2018. **Teele, Dawn.** *<a href="https://press.princeton.edu/books/hardcover/9780691180267/forging-the-franchise" style="color: black; text-decoration: none;">Forging the Franchise: The Political Origins of the Women's Vote.</a>* Princeton, NJ: Princeton University Press. replication files.
+
