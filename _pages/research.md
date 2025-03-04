@@ -23,7 +23,7 @@ redirect_from:
 
 **Teele, Dawn.** *The Gender Gap and the Welfare State.* In Progress.
 
-
+![Voter Turnout Graph](image/voter_turnout.png)
 
 
 
