@@ -7,6 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
+html {
+    font-size: 110%; /* Adjust this percentage to make text larger */
+}
 
 ## Books
 
