@@ -27,7 +27,6 @@ style="color: darkred; text-decoration: none;" target="_blank" rel="noopener nor
 Princeton, NJ: Princeton University Press. 
 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JZYGRB" 
 style="color: gray; text-decoration: none;" target="_blank" rel="noopener noreferrer">Replication files.</a><br>
-
 <span style="font-size: 0.8em;">Prize: Gregory Luebbert Prize for the Best Book in Comparative Politics, American Political Science Association 2020.</span><br>
 <span style="font-size: 0.8em;">Reviews: *<a href="https://www.aeaweb.org/articles?id=10.1257/jel.20201567" 
 style="color: gray; text-decoration: none;" target="_blank" rel="noopener noreferrer">Journal of Economic Literature 2022</a>* ; </span>
