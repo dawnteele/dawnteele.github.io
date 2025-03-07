@@ -58,7 +58,7 @@ style="color: gray; font-size: 0.8em; text-decoration: none;" target="_blank" re
 
 2025\. **Teele, Dawn.** <a href="https://www.dropbox.com/scl/fi/wznnbwd9n1audgo9eka2b/Teele_ARPS_final.pdf?rlkey=f6hv6eak365pjofm7mry7am8q&e=1&dl=0" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">"Women's Suffrage: Causes and Consequences."</a> *Annual Review of Political Science*, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006038" style="color: gray; text-decoration: none;" target="_blank" rel="noopener noreferrer">in press.</a>
 
-2024\. **Teele, Dawn.** <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/726953" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">"The Political Geography of the Gender Gap."</a> *Journal of Politics*, 86(2): 428-42. <a href="..files/teele_2023_appendix_political_geography_gender_gap.pdf" style="color: gray; text-decoration: none;" target="_blank" rel="noopener noreferrer">appendix.</a>
+2024\. **Teele, Dawn.** <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/726953" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">"The Political Geography of the Gender Gap."</a> *Journal of Politics*, 86(2): 428-42. <a href="../files/teele_2023_appendix_political_geography_gender_gap.pdf" style="color: gray; text-decoration: none;" target="_blank" rel="noopener noreferrer">Appendix.</a>
 
 
 
