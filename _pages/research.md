@@ -23,10 +23,9 @@ redirect_from:
 
 **Teele, Dawn.** *The Gender Gap and the Welfare State.* In Progress.
 
+## Articles
 
-
-
-
+2025\. **Teele, Dawn.** <a href="https://www.dropbox.com/scl/fi/wznnbwd9n1audgo9eka2b/Teele_ARPS_final.pdf?rlkey=f6hv6eak365pjofm7mry7am8q&e=1&dl=0" style="color: darkred; text-decoration: none;">"Women's Suffrage: Causes and Consequences."</a> *Annual Review of Political Science*, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006038" style="color: gray; text-decoration: none;">in press.</a>
 
 
 
