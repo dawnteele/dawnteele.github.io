@@ -89,13 +89,41 @@ style="color: gray; font-size: 0.8em; text-decoration: none;" target="_blank" re
 2018\. Kalla, Joshua, Frances Rosenbluth, and **Dawn Teele**. <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/693984" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">“Are You my Mentor? A Field Experiment on Gender, Ethnicity, and Political Self-Starters.”</a> *Journal of Politics*, 80(1): 337-341. <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/URHLUO" style="color: darkgreen; text-decoration: none;" target="_blank" rel="noopener noreferrer">Replication Files.</a>
 
 
-2017\. **Teele, Dawn** and Kathleen Thelen. <a href="https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/gender-in-the-journals-publication-patterns-in-political-science/07452099DCDCBF378D233FF402C97DEA" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">"Gender in the Journals: Publication Patterns in Political Science."</a> *PS: Political Science & Politics*, 50(2): 433-437.<br>
-<span style="font-size: 0.8em;">See *<a href="https://www.washingtonpost.com/news/monkey-cage/wp/2017/05/30/some-of-the-top-political-science-journals-are-biased-against-women-heres-the-evidence/" style="color: darkgray; text-decoration: none;" target="_blank" rel="noopener noreferrer">Monkey Cage</a>*, 30-May-17.</span><br>
-<span style="font-size: 0.8em;">See *<a href="https://www.insidehighered.com/news/2018/06/12/study-editors-major-political-science-journals-demonstrate-no-systematic-bias" style="color: darkgray; text-decoration: none;" target="_blank" rel="noopener noreferrer">Inside Higher Ed's Chronicle</a>* of the debate.</span><br>
-<span style="font-size: 0.8em;">See Symposium *<a href="https://www.cambridge.org/core/journals/ps-political-science-and-politics/information/gender-in-the-journals-continued-evidence-from-five-political-science-journals" style="color: darkgray; text-decoration: none;" target="_blank" rel="noopener noreferrer">"Gender in the Journals, Continued"</a>* in PS: Political Science and Politics.</span>  
+2017\. **Teele, Dawn** and Kathleen Thelen. 
+<a href="https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/gender-in-the-journals-publication-patterns-in-political-science/07452099DCDCBF378D233FF402C97DEA" 
+   style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">
+   "Gender in the Journals: Publication Patterns in Political Science."
+</a> 
+*PS: Political Science & Politics*, 50(2): 433-437.<br>
+
+<div style="font-size: 0.8em;">
+   See *<a href="https://www.washingtonpost.com/news/monkey-cage/wp/2017/05/30/some-of-the-top-political-science-journals-are-biased-against-women-heres-the-evidence/" 
+   style="color: darkgray; text-decoration: none;" target="_blank" rel="noopener noreferrer">Monkey Cage</a>*, 30-May-17.<br>
+   
+   See *<a href="https://www.insidehighered.com/news/2018/06/12/study-editors-major-political-science-journals-demonstrate-no-systematic-bias" 
+   style="color: darkgray; text-decoration: none;" target="_blank" rel="noopener noreferrer">Inside Higher Ed's Chronicle</a>* of the debate.<br>
+   
+   See Symposium *<a href="https://www.cambridge.org/core/journals/ps-political-science-and-politics/information/gender-in-the-journals-continued-evidence-from-five-political-science-journals" 
+   style="color: darkgray; text-decoration: none;" target="_blank" rel="noopener noreferrer">
+   "Gender in the Journals, Continued"
+   </a>* in *PS: Political Science and Politics*.
+</div>
 
 
-2014\. **Teele, Dawn.** <a href="https://journals.sagepub.com/doi/full/10.1177/0032329214547343" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">“Ordinary Democratization: The Electoral Strategy that Won British Women the Vote.”</a> *Politics & Society*, 42(4): 537-561.<br>
-<span style="font-size: 0.8em;">See *<a href="https://www.washingtonpost.com/news/monkey-cage/wp/2015/11/01/what-the-movie-suffragette-doesnt-tell-you-about-about-how-women-won-the-right-to-vote/?utm_term=.88075bd78d17" style="color: darkgray; text-decoration: none;" target="_blank" rel="noopener noreferrer">Monkey Cage</a>*, 1-Nov-15.<br></span>
-<span style="font-size: 0.8em;">UK’s Democratic Audit, 23-Nov-15.</span>
+2014\. **Teele, Dawn.**  
+<a href="https://journals.sagepub.com/doi/full/10.1177/0032329214547343" 
+   style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">
+   “Ordinary Democratization: The Electoral Strategy that Won British Women the Vote.”
+</a>  
+*Politics & Society*, 42(4): 537-561.<br>
+
+<div style="font-size: 0.8em;">
+   See *<a href="https://www.washingtonpost.com/news/monkey-cage/wp/2015/11/01/what-the-movie-suffragette-doesnt-tell-you-about-about-how-women-won-the-right-to-vote/?utm_term=.88075bd78d17" 
+   style="color: darkgray; text-decoration: none;" target="_blank" rel="noopener noreferrer">
+   Monkey Cage
+   </a>*, 1-Nov-15.<br>
+
+   UK’s Democratic Audit, 23-Nov-15.
+</div>
+
              
