@@ -90,20 +90,12 @@ style="color: gray; font-size: 0.8em; text-decoration: none;" target="_blank" re
 
 
 2017\. **Teele, Dawn** and Kathleen Thelen. 
-<a href="https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/gender-in-the-journals-publication-patterns-in-political-science/07452099DCDCBF378D233FF402C97DEA" 
-   style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">
-   "Gender in the Journals: Publication Patterns in Political Science."
-</a> 
-*PS: Political Science & Politics*, 50(2): 433-437.<br>
+<a href="https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/gender-in-the-journals-publication-patterns-in-political-science/07452099DCDCBF378D233FF402C97DEA" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">"Gender in the Journals: Publication Patterns in Political Science."</a> *PS: Political Science & Politics*, 50(2): 433-437.<br>
 <div style="font-size: 0.8em;">
-   See <em><a href="https://www.washingtonpost.com/news/monkey-cage/wp/2017/05/30/some-of-the-top-political-science-journals-are-biased-against-women-heres-the-evidence/" style="color: darkgray; text-decoration: none;" target="_blank" rel="noopener noreferrer">
+See <em><a href="https://www.washingtonpost.com/news/monkey-cage/wp/2017/05/30/some-of-the-top-political-science-journals-are-biased-against-women-heres-the-evidence/" style="color: darkgray; text-decoration: none;" target="_blank" rel="noopener noreferrer">
 Monkey Cage</a></em>, 30-May-17.<br>
-   See *<a href="https://www.insidehighered.com/news/2018/06/12/study-editors-major-political-science-journals-demonstrate-no-systematic-bias" 
-   style="color: darkgray; text-decoration: none;" target="_blank" rel="noopener noreferrer">Inside Higher Ed's Chronicle</a>* of the debate.<br>
-   See Symposium *<a href="https://www.cambridge.org/core/journals/ps-political-science-and-politics/information/gender-in-the-journals-continued-evidence-from-five-political-science-journals" 
-   style="color: darkgray; text-decoration: none;" target="_blank" rel="noopener noreferrer">
-   "Gender in the Journals, Continued"
-   </a>* in PS: Political Science and Politics.
+See *<a href="https://www.insidehighered.com/news/2018/06/12/study-editors-major-political-science-journals-demonstrate-no-systematic-bias" style="color: darkgray; text-decoration: none;" target="_blank" rel="noopener noreferrer">Inside Higher Ed's Chronicle</a>* of the debate.<br>
+See Symposium *<a href="https://www.cambridge.org/core/journals/ps-political-science-and-politics/information/gender-in-the-journals-continued-evidence-from-five-political-science-journals" style="color: darkgray; text-decoration: none;" target="_blank" rel="noopener noreferrer">"Gender in the Journals, Continued"</a>* in PS: Political Science and Politics.
 </div>
 
 
