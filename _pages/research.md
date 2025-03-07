@@ -42,16 +42,12 @@ style="color: gray; font-size: 0.8em; text-decoration: none;" target="_blank" re
 *<a href="https://www.tandfonline.com/doi/abs/10.1080/09612025.2019.1576290" 
 style="color: gray; font-size: 0.8em; text-decoration: none;" target="_blank" rel="noopener noreferrer">Women's History Review 2019</a>*.
 
-<br><br>
-
 2014\. **Teele, Dawn** (ed.). *<a href="https://www.amazon.com/Field-Experiments-Their-Critics-Experimentation/dp/030016940X" 
 style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">Field Experiments and Their Critics: Essays on the Uses and Abuses of Experiments in the Social Sciences.</a>* 
 Yale University Press.<br>
 <span style="font-size: 0.8em;">Review Symposium: </span>
 *<a href="../files/perspectives_symposium.pdf" 
 style="color: gray; font-size: 0.8em; text-decoration: none;" target="_blank" rel="noopener noreferrer">Perspectives on Politics 2017.</a>*
-
-<br><br>
 
 2020\. Shames, Shauna, Rachel Bernhard, Mirya Holman, and **Dawn Teele** (eds.). 
 *<a href="https://tupress.temple.edu/books/good-reasons-to-run" 
