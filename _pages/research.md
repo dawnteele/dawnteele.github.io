@@ -96,8 +96,8 @@ style="color: gray; font-size: 0.8em; text-decoration: none;" target="_blank" re
 
 
 2014\. **Teele, Dawn.**  <a href="https://journals.sagepub.com/doi/full/10.1177/0032329214547343" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">“Ordinary Democratization: The Electoral Strategy that Won British Women the Vote.”</a> *Politics & Society*, 42(4): 537-561.<br>
-<span style="font-size: 0.8em;">See <a href="https://www.washingtonpost.com/news/monkey-cage/wp/2015/11/01/what-the-movie-suffragette-doesnt-tell-you-about-about-how-women-won-the-right-to-vote/?utm_term=.88075bd78d17" style="color: darkgray; text-decoration: none;" target="_blank" rel="noopener noreferrer">Monkey Cage</a>, 1-Nov-15.</span><br>
+<span style="font-size: 0.8em;">See *<a href="https://www.washingtonpost.com/news/monkey-cage/wp/2015/11/01/what-the-movie-suffragette-doesnt-tell-you-about-about-how-women-won-the-right-to-vote/?utm_term=.88075bd78d17" style="color: darkgray; text-decoration: none;" target="_blank" rel="noopener noreferrer">Monkey Cage</a>*, 1-Nov-15.</span><br>
 <span style="font-size: 0.8em;">UK’s Democratic Audit, 23-Nov-15.</span>
-</div>
+
 
              
