@@ -100,4 +100,13 @@ style="color: gray; font-size: 0.8em; text-decoration: none;" target="_blank" re
 <span style="font-size: 0.8em;">UK’s Democratic Audit, 23-Nov-15.</span>
 
 
-             
+## Book Chapters
+2022\. **Teele, Dawn** and Pauline Grosjean. <a href="https://academic.oup.com/edited-volume/44005/chapter-abstract/387193861?redirectedFrom=fulltext&login=false" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">“In Search of Gender in Historical Political Economy.”</a> In *The Oxford Handbook of Historical Political Economy*, edited by Jeffery A. Jenkins and Jared Rubin, 713-732. Oxford University Press.
+
+2021\. **Teele, Dawn.** <a href="https://www.cambridge.org/core/books/abs/advances-in-experimental-political-science/virtual-consent-the-bronze-standard-for-experimental-ethics/D18EE0E6CD7A9BE2E9F9EE65BE986F2C" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">“Virtual Consent: A Bronze Standard for Experimental Ethics.”</a> In *Advances in Experimental Political Science*, edited by James N. Druckman and Donald P. Green, 130–46. Cambridge: Cambridge University Press.
+
+2020\. **Teele, Dawn.** <a href="https://core-prod.cambridgecore.org/core/books/abs/production-of-knowledge/whats-wrong-with-replicating-the-old-boys-networks/353D4D9FD351C7EB97BC86E06E360BBF" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">“What’s Wrong with Replicating the Old Boy’s Networks?”</a> In *The Production of Knowledge: Enhancing Progress in Social Science*, edited by Colin Elman, John Gerring, and James Mahoney, 403–31. Cambridge: Cambridge University Press.
+
+2019\. Bernhard, Rachel, Mirya Holman, Shauna Shames, and **Dawn Teele** (eds.). <a href="https://www.tandfonline.com/doi/full/10.1080/21565503.2019.1678883?scroll=top&needAccess=true" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">“Beyond Ambition.”</a> A symposium on the limits of the “ambition” frame for understanding representation, in *Politics, Groups and Identities*: 7(3).
+
+2014\. **Teele, Dawn.** <a href="https://www.academia.edu/16086359/Reflections_on_the_Ethics_of_Field_Experiments" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">“Reflections on the Ethics of Field Experiments.”</a> In *Field Experiments and Their Critics*, edited by Dawn Teele, 115-40. Yale University Press.
