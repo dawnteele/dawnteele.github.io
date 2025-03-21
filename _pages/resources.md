@@ -8,11 +8,11 @@ redirect_from:
 ---
 ## Downloadable Resources for Students
 
-[Best Practices for Slides]()
+[Best Practices for Slides](../files/best_practices_slides.pdf)
 
-[Tips for Writing]()
+[Tips for Writing](../files/best_practices_for_writing_in_an_mpa_program.pdf)
 
-[Guide for Writing a Senior Thesis]()
+[Guide for Writing a Senior Thesis](../files/teele_senior_thesis.pdf)
 
 
 
