@@ -121,4 +121,4 @@ style="color: gray; font-size: 0.8em; text-decoration: none;" target="_blank" re
 
 2020. **Teele, Dawn.** “Review of: *All Roads Lead to Power: The Appointed and Elected Paths to Public Office for US Women.*” By Kaitlin N. Sidorsky. *Perspectives on Politics* 18(1).
 
-2019. **Teele, Dawn.** "Resisting the Americanization of Comparative Politics." *Newsletter of APSA Comparative Politics Section*: 29(1).  [Read](). 
+2019. **Teele, Dawn.** "Resisting the Americanization of Comparative Politics." *Newsletter of APSA Comparative Politics Section*: 29(1).  [Read](../files/teele_2019_cp_newsletter_.pdf). 
