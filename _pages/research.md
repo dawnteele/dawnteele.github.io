@@ -110,3 +110,15 @@ style="color: gray; font-size: 0.8em; text-decoration: none;" target="_blank" re
 2019\. Bernhard, Rachel, Mirya Holman, Shauna Shames, and **Dawn Teele** (eds.). <a href="https://www.tandfonline.com/doi/full/10.1080/21565503.2019.1678883?scroll=top&needAccess=true" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">“Beyond Ambition.”</a> A symposium on the limits of the “ambition” frame for understanding representation, in *Politics, Groups and Identities*: 7(3).
 
 2014\. **Teele, Dawn.** <a href="https://www.academia.edu/16086359/Reflections_on_the_Ethics_of_Field_Experiments" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">“Reflections on the Ethics of Field Experiments.”</a> In *Field Experiments and Their Critics*, edited by Dawn Teele, 115-40. Yale University Press.
+
+
+## Book Reviews and Newsletters  
+2023. **Teele, Dawn.** "Review of: *Making Gender Salient: From Gender Quota Laws to Policy.*" By Ana Catalano Weeks. *Perspectives on Politics*. 
+
+2021. **Teele, Dawn.** “Review of: *A Century of Votes for Women.*” By Christina Wolbrecht and J. Kevin Corder. *Perspectives on Politics*.
+
+2020. **Teele, Dawn.** “Review of: *Disenfranchising Democracy.* By David A. Bateman Political Science Quarterly.
+
+2020. **Teele, Dawn.** “Review of: *All Roads Lead to Power: The Appointed and Elected Paths to Public Office for US Women.*” By Kaitlin N. Sidorsky. *Perspectives on Politics* 18(1).
+
+2019. **Teele, Dawn.** "Resisting the Americanization of Comparative Politics." *Newsletter of APSA Comparative Politics Section*: 29(1).  [Read](). 
