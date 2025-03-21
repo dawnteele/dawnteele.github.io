@@ -15,5 +15,6 @@ redirect_from:
 [Guide for Writing a Senior Thesis](../files/teele_senior_thesis.pdf)
 
 
-
+## Working with Stata
+[An Introduction to Stata](../files/the_stata_bible_2.pdf)
 
