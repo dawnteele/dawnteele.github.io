@@ -113,12 +113,23 @@ style="color: gray; font-size: 0.8em; text-decoration: none;" target="_blank" re
 
 
 ## Book Reviews and Newsletters  
-2023. **Teele, Dawn.** "Review of: *Making Gender Salient: From Gender Quota Laws to Policy.*" By Ana Catalano Weeks. *Perspectives on Politics*. 
+2023\. **Teele, Dawn.** "Review of: *Making Gender Salient: From Gender Quota Laws to Policy.*" By Ana Catalano Weeks. *Perspectives on Politics*. 
 
-2021. **Teele, Dawn.** “Review of: *A Century of Votes for Women.*” By Christina Wolbrecht and J. Kevin Corder. *Perspectives on Politics*.
+2021\. **Teele, Dawn.** “Review of: *A Century of Votes for Women.*” By Christina Wolbrecht and J. Kevin Corder. *Perspectives on Politics*.
 
-2020. **Teele, Dawn.** “Review of: *Disenfranchising Democracy.* By David A. Bateman Political Science Quarterly.
+2020\. **Teele, Dawn.** “Review of: *Disenfranchising Democracy.* By David A. Bateman Political Science Quarterly.
 
-2020. **Teele, Dawn.** “Review of: *All Roads Lead to Power: The Appointed and Elected Paths to Public Office for US Women.*” By Kaitlin N. Sidorsky. *Perspectives on Politics* 18(1).
+2020\. **Teele, Dawn.** “Review of: *All Roads Lead to Power: The Appointed and Elected Paths to Public Office for US Women.*” By Kaitlin N. Sidorsky. *Perspectives on Politics* 18(1).
 
-2019. **Teele, Dawn.** "Resisting the Americanization of Comparative Politics." *Newsletter of APSA Comparative Politics Section*: 29(1).  [Read](../files/teele_2019_cp_newsletter_.pdf). 
+2019\. **Teele, Dawn.** "Resisting the Americanization of Comparative Politics." *Newsletter of APSA Comparative Politics Section*: 29(1).  [Read](../files/teele_2019_cp_newsletter_.pdf).
+ 
+
+## Working Papers      
+Cirone, Alexandra, Gary W. Cox, Jon H. Fiva, Daniel M. Smith and **Dawn L. Teele**. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452382" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">"Gender Gaps and Hidden Majoritarianism in Proportional Representation Systems."</a> *Under Review*
+
+
+Cirone, Alexandra, Gary W. Cox, Jon H. Fiva, Daniel M. Smith and Dawn L. Teele. "Gender Gaps and Hidden Majoritarianism in Proportional Representation Systems." ​    Under Review.     
+
+Callis, Anna, Dawn Teele, and Guadalupe Tuñón. “Compulsory Voting and Gender Equality in Participation.” Under Review. 
+ 
+Brie, Evelyne and Dawn Teele “The Myth of the Traditional Gender Gap."  Under Review.
