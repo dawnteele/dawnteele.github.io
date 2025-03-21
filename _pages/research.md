@@ -130,3 +130,13 @@ Cirone, Alexandra, Gary W. Cox, Jon H. Fiva, Daniel M. Smith and **Dawn L. Teele
 Callis, Anna, **Dawn Teele**, and Guadalupe Tuñón. “Compulsory Voting and Gender Equality in Participation.” *Under Review*. 
  
 Brie, Evelyne and **Dawn Teele**. “The Myth of the Traditional Gender Gap." *Under Review*.
+
+
+## Datasets   
+Database of Women in Parliamentary Parties in 40 countries, 1900-2012.
+
+City-level Dataset of Urban Political Machines in the United States, 1890-1950. [find it here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EVYI2H).
+
+​State level membership in the Women's Christian Temperance Union, 1884-1919. [find it here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EVYI2H).
+
+By-Election Returns in the British Parliament, 1906-1918.
