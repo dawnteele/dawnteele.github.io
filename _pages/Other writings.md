@@ -14,7 +14,8 @@ author_profile: true
 2015\. Rosenbluth, Frances, Joshua Kalla and Dawn Teele. “The Female Political Career”. Women in Parliaments Global Forum, Washington D.C.: *The World Bank Group*. [Read Policy Report](https://www.academia.edu/16087384/The_Female_Political_Career).
 
 
-Press and Blogs
+## Press and Blogs
+
 2019\. “The Ecology of Gender Bias in Academia” *The Monkey Cage*, Washington Post. August.
 
 ​2019\. “Un siglo de mujeres en política” *La Vanguardia*, Spain. July/September 73: 23-28. [Link.](https://www.lavanguardia.com/vanguardia-dossier/20190920/47498885849/un-siglo-de-mujeres-en-politica.html)
