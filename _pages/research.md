@@ -101,6 +101,11 @@ style="color: gray; font-size: 0.8em; text-decoration: none;" target="_blank" re
 
 
 ## Book Chapters
+
+2025\. Tudor, Carissa and **Dawn Teele**. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006051" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">“Modernization and Gender Equality? It’s Complicated.”</a> In *Handbook of Political Economy*, edited by Daron Açemoglu and James Robinson. North Holland, in press.
+
+2023\. Lipkin, Sophia and **Dawn Teele**. <a href="https://www.elgaronline.com/edcollchap/book/9781803923246/book-part-9781803923246-22.xml" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">“Ethics and the Study of Gender and Corruption.”</a> In *Handbook on Gender and Corruption in Democracies*, edited by Tiffany D. Barnes and Emily Beaulieu, 161-173. Elgar Publishing.
+
 2022\. **Teele, Dawn** and Pauline Grosjean. <a href="https://academic.oup.com/edited-volume/44005/chapter-abstract/387193861?redirectedFrom=fulltext&login=false" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">“In Search of Gender in Historical Political Economy.”</a> In *The Oxford Handbook of Historical Political Economy*, edited by Jeffery A. Jenkins and Jared Rubin, 713-732. Oxford University Press.
 
 2021\. **Teele, Dawn.** <a href="https://www.cambridge.org/core/books/abs/advances-in-experimental-political-science/virtual-consent-the-bronze-standard-for-experimental-ethics/D18EE0E6CD7A9BE2E9F9EE65BE986F2C" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">“Virtual Consent: A Bronze Standard for Experimental Ethics.”</a> In *Advances in Experimental Political Science*, edited by James N. Druckman and Donald P. Green, 130–46. Cambridge: Cambridge University Press.
