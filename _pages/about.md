@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visiting my website! The website is currently under construction. Here is the [link](https://dawnteele.weebly.com/) to my old website.
-
 Dr. Dawn Teele is the SNF Agora Associate Professor of Political Science at Johns Hopkins University. 
 
 Professor Teele is a leader in the field of gender and politics. She is author of an award-winning book, [Forging the Franchise: The Political Origins of the Women’s Vote](https://press.princeton.edu/books/hardcover/9780691180267/forging-the-franchise) (Princeton University Press, 2018), a co-authored volume [Good Reasons to Run: Women and Political Candidacy](https://www.amazon.com/Good-Reasons-Run-Political-Candidacy/dp/1439919550) (Temple University Press, 2020), and more than a dozen peer-reviewed or scholarly articles on gender and political life. 
