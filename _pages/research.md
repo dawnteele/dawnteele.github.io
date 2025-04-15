@@ -52,10 +52,11 @@ style="color: gray; font-size: 0.8em; text-decoration: none;" target="_blank" re
 *<a href="https://www.tandfonline.com/doi/full/10.1080/1554477X.2021.1946317" 
 style="color: gray; font-size: 0.8em; text-decoration: none;" target="_blank" rel="noopener noreferrer">Journal of Women, Politics & Policy 2021</a>*.
 
-**Teele, Dawn.** *The Gender Gap and the Welfare State.* In Progress.
 
 
 ## Articles
+
+Smith, Daniel M., Alexandra Cirone, **Dawn Teele**, Gary W. Cox, and Jon H. Fiva. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452382" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">"Gender Gaps and Hidden Majoritarianism in Proportional Representation Systems."</a> *Under Review*, Gary W. Cox, Jon H. Fiva, and **Dawn L. Teele**. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452382" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">"Gender Gaps and Hidden Majoritarianism in Proportional Representation Systems."</a> *American Political Science Review*, conditional acceptance.
 
 2025\. **Teele, Dawn.** <a href="https://www.dropbox.com/scl/fi/wznnbwd9n1audgo9eka2b/Teele_ARPS_final.pdf?rlkey=f6hv6eak365pjofm7mry7am8q&e=1&dl=0" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">"Women's Suffrage: Causes and Consequences."</a> *Annual Review of Political Science*, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006038" style="color: darkgreen; text-decoration: none;" target="_blank" rel="noopener noreferrer">in press.</a>
 
@@ -130,9 +131,8 @@ style="color: gray; font-size: 0.8em; text-decoration: none;" target="_blank" re
  
 
 ## Working Papers      
-Cirone, Alexandra, Gary W. Cox, Jon H. Fiva, Daniel M. Smith and **Dawn L. Teele**. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452382" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">"Gender Gaps and Hidden Majoritarianism in Proportional Representation Systems."</a> *Under Review*
 
-Callis, Anna, **Dawn Teele**, and Guadalupe Tuñón. “Compulsory Voting and Gender Equality in Participation.” *Under Review*. 
+Callis, Anna, **Dawn Teele**, and Guadalupe Tuñón. “Compulsory Voting and Gender Equality in Participation.”
  
 Brie, Evelyne and **Dawn Teele**. “The Myth of the Traditional Gender Gap." *Under Review*.
 
