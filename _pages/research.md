@@ -56,7 +56,7 @@ style="color: gray; font-size: 0.8em; text-decoration: none;" target="_blank" re
 
 ## Articles
 
-Smith, Daniel M., Alexandra Cirone, **Dawn Teele**, Gary W. Cox, and Jon H. Fiva. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452382" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">"Gender Gaps and Hidden Majoritarianism in Proportional Representation Systems."</a> *Under Review*, Gary W. Cox, Jon H. Fiva, and **Dawn L. Teele**. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452382" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">"Gender Gaps and Hidden Majoritarianism in Proportional Representation Systems."</a> *American Political Science Review*, conditional acceptance.
+Smith, Daniel M., Alexandra Cirone, **Dawn Teele**, Gary W. Cox, and Jon H. Fiva. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452382" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">"Gender Gaps and Hidden Majoritarianism in Proportional Representation Systems."</a> *American Political Science Review*, conditional acceptance.
 
 2025\. **Teele, Dawn.** <a href="https://www.dropbox.com/scl/fi/wznnbwd9n1audgo9eka2b/Teele_ARPS_final.pdf?rlkey=f6hv6eak365pjofm7mry7am8q&e=1&dl=0" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">"Women's Suffrage: Causes and Consequences."</a> *Annual Review of Political Science*, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006038" style="color: darkgreen; text-decoration: none;" target="_blank" rel="noopener noreferrer">in press.</a>
 
