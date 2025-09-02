@@ -55,8 +55,11 @@ style="color: gray; font-size: 0.8em; text-decoration: none;" target="_blank" re
 
 
 ## Articles
+202x\. Brie, Evelyne and **Dawn Teele**. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5207456" style="color:darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer"> “The Myth of the Traditional Gender Gap: Evidence from the Crucial Case of Quebec.” </a> *World Politics*, conditional acceptance. 
 
-Smith, Daniel M., Alexandra Cirone, **Dawn Teele**, Gary W. Cox, and Jon H. Fiva. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4452382" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">"Gender Gaps and Hidden Majoritarianism in Proportional Representation Systems."</a> *American Political Science Review*, conditional acceptance.
+
+2025\. Smith, Daniel M., Alexandra Cirone, **Dawn Teele**, Gary W. Cox, and Jon H. Fiva. <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-033123-125642" style="color:darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer"> “Hidden Majoritarianism and Women’s Career Progression in Proportional Representation Systems.” </a> *American Political Science Review*, conditional acceptance.
+
 
 2025\. **Teele, Dawn.** <a href="https://www.dropbox.com/scl/fi/wznnbwd9n1audgo9eka2b/Teele_ARPS_final.pdf?rlkey=f6hv6eak365pjofm7mry7am8q&e=1&dl=0" style="color: darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer">"Women's Suffrage: Causes and Consequences."</a> *Annual Review of Political Science*, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5006038" style="color: darkgreen; text-decoration: none;" target="_blank" rel="noopener noreferrer">in press.</a>
 
@@ -134,8 +137,6 @@ Smith, Daniel M., Alexandra Cirone, **Dawn Teele**, Gary W. Cox, and Jon H. Fiva
 
 Callis, Anna, **Dawn Teele**, and Guadalupe Tuñón. “Compulsory Voting and Gender Equality in Participation.”
  
-Brie, Evelyne and **Dawn Teele**. “The Myth of the Traditional Gender Gap." *Under Review*.
-
 
 ## Datasets   
 Database of Women in Parliamentary Parties in 40 countries, 1900-2012.
