@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Dawn Teele is the SNF Agora Associate Professor of Political Science at Johns Hopkins University. 
+Dr. Dawn Teele is the SNF Agora Associate Professor of Political Science at Johns Hopkins University, and a [2025 Andrew Carnegie Fellow](https://www.carnegie.org/awards/honoree/dawn-langan-teele/). 
 
 Professor Teele is a leader in the field of gender and politics. She is the author of an award-winning book, [Forging the Franchise: The Political Origins of the Women’s Vote](https://press.princeton.edu/books/hardcover/9780691180267/forging-the-franchise) (Princeton University Press, 2018), a co-authored volume [Good Reasons to Run: Women and Political Candidacy](https://www.amazon.com/Good-Reasons-Run-Political-Candidacy/dp/1439919550) (Temple University Press, 2020), and more than a dozen peer-reviewed or scholarly articles on gender and political life. She is also the editor of [Field Experiments and Their Critics: Essays on the Uses and Abuses of Experiments in the Social Sciences](https://www.amazon.com/Field-Experiments-Their-Critics-Experimentation/dp/030016940X) (Yale University Press, 2014).
 
