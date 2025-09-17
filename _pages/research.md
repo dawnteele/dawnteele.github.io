@@ -136,6 +136,8 @@ style="color: gray; font-size: 0.8em; text-decoration: none;" target="_blank" re
 ## Working Papers      
 
 Callis, Anna, **Dawn Teele**, and Guadalupe Tuñón. “Compulsory Voting and Gender Equality in Participation.”
+
+Calder, Alice and **Dawn Teele**. "The Median Man and the Identification Imaginary Lessons from the Compulsory Voting Debate." [Link.](https://dx.doi.org/10.2139/ssrn.5473866).
  
 
 ## Datasets   
