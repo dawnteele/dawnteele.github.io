@@ -55,7 +55,7 @@ style="color: gray; font-size: 0.8em; text-decoration: none;" target="_blank" re
 
 
 ## Articles
-202x\. Brie, Evelyne and **Dawn Teele**. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5207456" style="color:darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer"> “The Myth of the Traditional Gender Gap: Evidence from the Crucial Case of Quebec.” </a> *World Politics*, conditional acceptance. 
+2026\. Brie, Evelyne and **Dawn Teele**. <a href="https://doi.org/10.1353/wp.2026.a997116" style="color:darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer"> “The Myth of the Traditional Gender Gap? Evidence from Catholic Countries” </a> *World Politics*, 78(3): 459-508. 
 
 
 2025\. Smith, Daniel M., Alexandra Cirone, **Dawn Teele**, Gary W. Cox, and Jon H. Fiva. <a href="https://doi.org/10.1017/S0003055425100786 " style="color:darkred; text-decoration: none;" target="_blank" rel="noopener noreferrer"> “Hidden Majoritarianism and Women’s Career Progression in Proportional Representation Systems.” </a> *American Political Science Review*.
